@@ -1,6 +1,5 @@
 trigger:
 - '*'
-
 pool:
   name: 'MyAgentPool'
   demands:
